@@ -9,7 +9,7 @@ This project assesses maternal health risks based on factors such as age, blood 
 - Provides a **REST API** for maternal risk prediction.  
 
 ### **2. Next.js Frontend**  
-- A modern web application for user input and risk level visualization.  
+- A modern web application for user input and risk level display
 
 ## **Features**  
 
